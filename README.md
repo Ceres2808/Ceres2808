@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on hardware-hacker-hub<br>🌱 I’m currently learning TCAD
+🔭 I’m currently working on hardware-hacker-hub (a competitive coding platform for electronics enthusiasts)
+<br>
+🌱 I’m currently learning TCAD
 
 
 # 💻 Tech Stack:
